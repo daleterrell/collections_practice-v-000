@@ -1,1 +1,1 @@
-sort_array_as
+sort_array_asc
